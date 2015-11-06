@@ -20,6 +20,7 @@ Resource [Git guide](http://rogerdudler.github.io/git-guide/)
 
 * git checkout -- <filename>
 * git add <filename>
+* git commit -a
 * git commit -m "Commit message"
 * git push origin master
 * git log --pretty=oneline
